@@ -116,6 +116,10 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
+## Streamlit Implementation
+
+Link: https://organizational-knowledge-flow-sb.streamlit.app/
+
 ---
 
 ## Future Enhancements
